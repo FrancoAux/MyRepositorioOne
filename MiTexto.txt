@@ -1,3 +1,7 @@
+<<<<<<< master
 Hola Shadow para mejorar.
 
 A la siguiente te abrazamos. (: whoa5
+=======
+Hola Shadow Evo5
+>>>>>>> f815fd1 Nuevo Host para mi texto
